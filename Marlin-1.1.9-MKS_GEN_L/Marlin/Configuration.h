@@ -378,10 +378,9 @@
   //#define DEFAULT_Kd 76.55
   
   // PID autotune
-  #define DEFAULT_Kp 31.79
-  #define DEFAULT_Ki 5.88
-  #define DEFAULT_Kd 42.97
-
+  #define DEFAULT_Kp 32.93
+  #define DEFAULT_Ki 4.90
+  #define DEFAULT_Kd 55.30
   //OLD
   //#define DEFAULT_Kp 32.90
   //#define DEFAULT_Ki 4.37
